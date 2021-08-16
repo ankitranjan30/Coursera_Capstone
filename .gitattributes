@@ -1,0 +1,4 @@
+Zip_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv filter=lfs diff=lfs merge=lfs -text
+Neighborhoods[[:space:]]in[[:space:]]Dallas[[:space:]]to[[:space:]]Open[[:space:]]a[[:space:]]Restaurant.ipynb filter=lfs diff=lfs merge=lfs -text
+tl_2019_us_zcta510.shp filter=lfs diff=lfs merge=lfs -text
+tl_2019_us_zcta510.geojson filter=lfs diff=lfs merge=lfs -text
